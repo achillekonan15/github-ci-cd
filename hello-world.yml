@@ -1,0 +1,7 @@
+greeting: "hello , world!"
+is_active: false
+count: 5
+items:
+   -item1
+   -item2
+   -item3S
